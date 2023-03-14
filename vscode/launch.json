@@ -1,0 +1,175 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch sum_of_oddnum",
+            "request": "launch",
+            "mainClass": "sum_of_oddnum",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch average1",
+            "request": "launch",
+            "mainClass": "average1",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch questions_in_one",
+            "request": "launch",
+            "mainClass": "questions_in_one",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "functions.factorial",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch factorial",
+            "request": "launch",
+            "mainClass": "functions_methods.factorial",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_numbers",
+            "request": "launch",
+            "mainClass": "functions_methods.add_numbers",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch adding_two_numbers",
+            "request": "launch",
+            "mainClass": "adding_two_numbers",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch taking_input",
+            "request": "launch",
+            "mainClass": "taking_input",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch upside_down_pyramid",
+            "request": "launch",
+            "mainClass": "upside_down_pyramid",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch palindrom_pyramid",
+            "request": "launch",
+            "mainClass": "palindrom_pyramid",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch new_pattern_2",
+            "request": "launch",
+            "mainClass": "new_pattern_2",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch add_two_integers",
+            "request": "launch",
+            "mainClass": "add_two_integers",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch butterfly",
+            "request": "launch",
+            "mainClass": "butterfly",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch findin_largest",
+            "request": "launch",
+            "mainClass": "findin_largest",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch full_pyramid",
+            "request": "launch",
+            "mainClass": "full_pyramid",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch half_pyramid",
+            "request": "launch",
+            "mainClass": "half_pyramid",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch hollow_ractangle",
+            "request": "launch",
+            "mainClass": "hollow_ractangle",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch if_else",
+            "request": "launch",
+            "mainClass": "if_else",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch new_pattern_1",
+            "request": "launch",
+            "mainClass": "new_pattern_1",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch numeric_half_pyramid",
+            "request": "launch",
+            "mainClass": "numeric_half_pyramid",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch square_pattern",
+            "request": "launch",
+            "mainClass": "square_pattern",
+            "projectName": "java_2986a3fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch sum_of_natural_numbers",
+            "request": "launch",
+            "mainClass": "sum_of_natural_numbers",
+            "projectName": "java_2986a3fd"
+        }
+    ]
+}
